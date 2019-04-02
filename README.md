@@ -8,7 +8,7 @@ Blog
 ## Posts
 
 ### Java基础
-
+- [Synchronized和Lock性能对比](https://github.com/miranlau/blog/issues/1)
 
 
 ### 多线程
