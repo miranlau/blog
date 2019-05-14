@@ -12,22 +12,22 @@ Blog
 
 
 ### 多线程
-- [Synchronized和Lock性能对比](https://github.com/miranlau/blog/issues/1)
+- [死锁 Deadlock](https://github.com/miranlau/blog/issues/2)
 
 
 ### NIO
-- [Synchronized和Lock性能对比](https://github.com/miranlau/blog/issues/1)
+- [NIO详解](https://github.com/miranlau/blog/issues/1)
 
 
 ### Redis
-- [Synchronized和Lock性能对比](https://github.com/miranlau/blog/issues/1)
+- [Redis乐观锁](https://github.com/miranlau/blog/issues/1)
 
 
 ### Spring
-- [Synchronized和Lock性能对比](https://github.com/miranlau/blog/issues/1)
+- [Spring Cloud Config](https://github.com/miranlau/blog/issues/1)
 
 ### Kafka
-- [Synchronized和Lock性能对比](https://github.com/miranlau/blog/issues/1)
+- [Kafka命令](https://github.com/miranlau/blog/issues/1)
 
 ### 其他
 
