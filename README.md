@@ -8,26 +8,26 @@ Blog
 ## Posts
 
 ### Java基础
-- [Synchronized和Lock性能对比](https://github.com/miranlau/blog/issues/1)
+- [单例模式与GC](https://github.com/miranlau/blog/issues/1)
 
 
 ### 多线程
 - [死锁 Deadlock](https://github.com/miranlau/blog/issues/2)
-
+- [Synchronized和Lock性能对比](https://github.com/miranlau/blog/issues/3)
 
 ### NIO
-- [NIO详解](https://github.com/miranlau/blog/issues/1)
+- [NIO详解](https://github.com/miranlau/blog/issues/4)
 
 
 ### Redis
-- [Redis乐观锁](https://github.com/miranlau/blog/issues/1)
+- [Redis乐观锁](https://github.com/miranlau/blog/issues/4)
 
 
 ### Spring
-- [Spring Cloud Config](https://github.com/miranlau/blog/issues/1)
+- [Spring Cloud Config](https://github.com/miranlau/blog/issues/4)
 
 ### Kafka
-- [Kafka命令](https://github.com/miranlau/blog/issues/1)
+- [Kafka命令](https://github.com/miranlau/blog/issues/4)
 
 ### 其他
 
