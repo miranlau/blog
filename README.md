@@ -16,7 +16,7 @@ Blog
 - [Synchronized和Lock性能对比](https://github.com/miranlau/blog/issues/3)
 
 ### NIO
-- [NIO详解](https://github.com/miranlau/blog/issues/4)
+- [NIO底层原理](https://github.com/miranlau/blog/issues/3)
 
 
 ### Redis
