@@ -19,6 +19,8 @@ Blog
 - [NIO底层原理](https://github.com/miranlau/blog/issues/3)
 - [IO多路复用](https://github.com/miranlau/blog/issues/4)
 
+### MySQL
+- [事务隔离级别与锁](https://github.com/miranlau/blog/issues/6)
 
 ### Redis
 - [Redis乐观锁](https://github.com/miranlau/blog/issues/4)
