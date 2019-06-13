@@ -21,6 +21,7 @@ Blog
 
 ### MySQL
 - [事务隔离级别与锁](https://github.com/miranlau/blog/issues/6)
+- [MySQL数据库切分Sharding](https://github.com/miranlau/blog/issues/7)
 
 ### Redis
 - [Redis乐观锁](https://github.com/miranlau/blog/issues/4)
