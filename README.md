@@ -33,7 +33,8 @@ Blog
 ### Kafka
 - [Kafka命令](https://github.com/miranlau/blog/issues/4)
 
-### 其他
+### 架构
+- [分布式事务解决方案](https://github.com/miranlau/blog/issues/8)
 
 ## 关于作者
 - 邮箱：miranlau@126.com
