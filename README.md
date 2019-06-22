@@ -18,6 +18,8 @@ Blog
 ### NIO
 - [NIO底层原理](https://github.com/miranlau/blog/issues/3)
 - [IO多路复用](https://github.com/miranlau/blog/issues/4)
+- [AIO API](https://github.com/miranlau/blog/issues/10)
+
 
 ### MySQL
 - [事务隔离级别与锁](https://github.com/miranlau/blog/issues/6)
