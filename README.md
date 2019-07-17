@@ -38,6 +38,7 @@ Blog
 
 ### 架构
 - [分布式事务解决方案](https://github.com/miranlau/blog/issues/8)
+- [服务降级策略](https://github.com/miranlau/blog/issues/11)
 
 ## 关于作者
 - 邮箱：miranlau@126.com
